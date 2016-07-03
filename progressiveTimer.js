@@ -1,13 +1,5 @@
 //israeljl
-//progressive timer
-
-//addZero
-function addZero(i) {
-
-  if (i < 10) {i = "0" + i;}
-  return i;
-  
-}
+//simple progressive timer
 
 //Timer Code
 
